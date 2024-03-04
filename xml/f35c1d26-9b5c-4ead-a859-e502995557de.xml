@@ -1,0 +1,38 @@
+
+<documents session_ui="86911d16-af96-48ac-a619-582921f9f7a7" version="1.36">
+  <withdrawal action_id="552">
+    <subject_id>00000000219162</subject_id>
+    <operation_date>2024-02-05T09:55:16+03:00</operation_date>
+    <doc_num>17/02-2024</doc_num>
+    <doc_date>05.02.2024</doc_date>
+    <withdrawal_type>13</withdrawal_type>
+    <order_details>
+      <sgtin>04601808005073t3kwRDQSgzISB</sgtin>
+      <sgtin>04601808005073e3aoDC8QBXJWM</sgtin>
+      <sgtin>04601808005073PhBDlCZD8d21C</sgtin>
+      <sgtin>04601808005073GDG7XkmXXF16r</sgtin>
+      <sgtin>04601808005073zkSaxv30f4qPI</sgtin>
+      <sgtin>046018080050733X1e0oFZlHKJr</sgtin>
+      <sgtin>04601808005073iBKsu26HRDhwq</sgtin>
+      <sgtin>04601808005073LpbnmmqohJi12</sgtin>
+      <sgtin>04601808005073fFD2YvyZVrnj7</sgtin>
+      <sgtin>04601808005073Nl2yop0TLiLgn</sgtin>
+      <sgtin>046018080050737Y9nYMagjp3KB</sgtin>
+      <sgtin>04601808005073zELIbpduvos1e</sgtin>
+      <sgtin>04601808005073KWsVoEc984NrM</sgtin>
+      <sgtin>0460180800507322gkQ8xjeBpCU</sgtin>
+      <sgtin>04601808005073tPaOipAQD0WA2</sgtin>
+      <sgtin>04601808005073KS8ORtrMzpXXI</sgtin>
+      <sgtin>04601808005073SwDf0KXzLV0t7</sgtin>
+      <sgtin>03838989513139BSWZP0EP40GT0</sgtin>
+      <sgtin>03838989513139BSWUGZFKTT6PZ</sgtin>
+      <sgtin>049870843109586473324294454</sgtin>
+      <sgtin>049870843109589466472452905</sgtin>
+      <sgtin>049870843109581990261421737</sgtin>
+      <sgtin>04602809007172iWDfck6C5Ul7P</sgtin>
+      <sgtin>04602809007172WXnWdw8a11nkq</sgtin>
+      <sgtin>04602809007172wjZBl2j0z2U87</sgtin>
+      <sgtin>04602809007172yUqjweuHeXiQy</sgtin>
+    </order_details>
+  </withdrawal>
+</documents>

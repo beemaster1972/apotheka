@@ -1,0 +1,26 @@
+
+<documents session_ui="86911d16-af96-48ac-a619-582921f9f7a7" version="1.36">
+  <withdrawal action_id="552">
+    <subject_id>00000000219162</subject_id>
+    <operation_date>2024-02-05T09:03:26+03:00</operation_date>
+    <doc_num>14/02-2024</doc_num>
+    <doc_date>05.02.2024</doc_date>
+    <withdrawal_type>13</withdrawal_type>
+    <order_details>
+      <sgtin>04607022750508YC7gLxHe2Rn9k</sgtin>
+      <sgtin>04607022750508YbnXtFcdmOdZj</sgtin>
+      <sgtin>04607022750508yBpDqqGnboRLc</sgtin>
+      <sgtin>04607022750508yCaAvBQDTOb3c</sgtin>
+      <sgtin>04607022750508yc7iGdhbUBl10</sgtin>
+      <sgtin>04607022750508yc5PQUR52tjuD</sgtin>
+      <sgtin>04607022750508ycAmCVOKzR4b5</sgtin>
+      <sgtin>04607022750508ybWJgX5ChH1hB</sgtin>
+      <sgtin>04607022750508yCWZr7YjxoUoA</sgtin>
+      <sgtin>04607022750508YBxPgyiV9Itjy</sgtin>
+      <sgtin>04607022750508YD0cfgkKuuoxR</sgtin>
+      <sgtin>04607022750508YD0UlYlhYGcZC</sgtin>
+      <sgtin>04607022750508yBgbYAuyvWfdp</sgtin>
+      <sgtin>04607022750508YbaqRneGrN0ft</sgtin>
+    </order_details>
+  </withdrawal>
+</documents>

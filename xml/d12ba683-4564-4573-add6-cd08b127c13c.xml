@@ -1,0 +1,17 @@
+
+<documents session_ui="86911d16-af96-48ac-a619-582921f9f7a7" version="1.36">
+  <withdrawal action_id="552">
+    <subject_id>00000000219162</subject_id>
+    <operation_date>2024-02-05T08:40:11+03:00</operation_date>
+    <doc_num>12/02-2024</doc_num>
+    <doc_date>05.02.2024</doc_date>
+    <withdrawal_type>13</withdrawal_type>
+    <order_details>
+      <sgtin>04680020181000000000UFNOV37</sgtin>
+      <sgtin>04680020181000000000UF8TEQK</sgtin>
+      <sgtin>04680020181000000000UF3OBOE</sgtin>
+      <sgtin>035829100204241012G71DMRX2R</sgtin>
+      <sgtin>035829100204241012G71DMN5GT</sgtin>
+    </order_details>
+  </withdrawal>
+</documents>

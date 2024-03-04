@@ -1,0 +1,47 @@
+
+<documents session_ui="86911d16-af96-48ac-a619-582921f9f7a7" version="1.36">
+  <withdrawal action_id="552">
+    <subject_id>00000000219162</subject_id>
+    <operation_date>2024-02-05T10:43:18+03:00</operation_date>
+    <doc_num>25/02-2024</doc_num>
+    <doc_date>05.02.2024</doc_date>
+    <withdrawal_type>13</withdrawal_type>
+    <order_details>
+      <sgtin>04660105900016RDZVZRXCNNGRJ</sgtin>
+      <sgtin>04660105900016RE76MW85X4HV6</sgtin>
+      <sgtin>04660105900016VRED6G3J384HR</sgtin>
+      <sgtin>04660105900016B7XV2VTJUK589</sgtin>
+      <sgtin>0466010590001632HHZPGX3AG6J</sgtin>
+      <sgtin>04660105900016B7RZRBA3FUG8E</sgtin>
+      <sgtin>04660105900016B5A7EWGXH3F2C</sgtin>
+      <sgtin>04660105900016SJ7E6XYTEGYKA</sgtin>
+      <sgtin>04660105900016DKW7CFVG9XAJR</sgtin>
+      <sgtin>0460317900432773P40TCHBT90A</sgtin>
+      <sgtin>04603179004327731MC8E468C0C</sgtin>
+      <sgtin>046031790043277359P96A6377K</sgtin>
+      <sgtin>0460317900432773321CC74A6BP</sgtin>
+      <sgtin>046031790043277390216PC7KM8</sgtin>
+      <sgtin>04603179004327733P0MXM81BHE</sgtin>
+      <sgtin>0460317900432773939X9967AC9</sgtin>
+      <sgtin>0460317900432773780THX37HA1</sgtin>
+      <sgtin>04603179004327737BBC2CBK3BP</sgtin>
+      <sgtin>0460317900432773X6H88107E3B</sgtin>
+      <sgtin>0460317900432773MP1E0PBHKT4</sgtin>
+      <sgtin>0460317900432773HT0T1C65HTA</sgtin>
+      <sgtin>046031790043277335T3XP58ME7</sgtin>
+      <sgtin>0460317900432773APP2P8899KK</sgtin>
+      <sgtin>04603179004327730CK1H349PEX</sgtin>
+      <sgtin>0460317900432773HEB01K2B12P</sgtin>
+      <sgtin>0460317900432773XB8X3T24322</sgtin>
+      <sgtin>0460317900432773HCHB421X25B</sgtin>
+      <sgtin>04603179004327739K8XX4HET1P</sgtin>
+      <sgtin>046031790043277373B4992586T</sgtin>
+      <sgtin>0460317900432773PHT26A2HM3P</sgtin>
+      <sgtin>046031790043277377H2AB62196</sgtin>
+      <sgtin>04603179004327731A9CK805279</sgtin>
+      <sgtin>0460317900432773T7B12XT90P6</sgtin>
+      <sgtin>0460317900432773PCA3X239A3K</sgtin>
+      <sgtin>0460317900432773CM013BBEC8A</sgtin>
+    </order_details>
+  </withdrawal>
+</documents>
